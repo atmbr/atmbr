@@ -18,10 +18,10 @@
 ### 🎉Alguns dos meus projetos:
 
 <a href="https://github.com/atmbr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atmbr&repo=github-readme-stats" max-width="400px" width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atmbr&repo=github-readme-stats" width="400px"/>
 </a>
 <a href="https://github.com/atmbr/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atmbr&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atmbr&repo=convoychat" width="400px"/>
 </a>
 <img src="https://github.com/user-attachments/assets/8d419945-c6fc-4560-ae3d-3137f98cbf27" alt="gato dormindo" min-width="400px" max-width="400px" width="400px" align="right"/>
 
