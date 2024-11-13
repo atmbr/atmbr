@@ -1,4 +1,5 @@
 <img src="https://github.com/user-attachments/assets/8d419945-c6fc-4560-ae3d-3137f98cbf27" alt="gato dormindo" min-width="400px" max-width="400px" width="400px" align="right"/>
+
 # Oi, sou o Atm! 👏
 
 <p align="left"># Oi, sou o Atm! 👏</br> Atualmente, estou estudando programação e criando alguns projetos com HTML, CSS e JavaScript. Não sou profissional ainda, mas já fiz alguns sites e estou me divertindo bastante no processo. Meu próximo passo é começar a aprender Python e expandir meus conhecimentos.</p>
