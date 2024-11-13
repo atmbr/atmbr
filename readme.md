@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/static/v1?label=Overview&message=atmbr&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Github"/></a>
 </p>
 <img src="https://github.com/user-attachments/assets/8d419945-c6fc-4560-ae3d-3137f98cbf27" alt="gato dormindo" min-width="400px" max-width="400px" width="400px" align="right"/>
+
 ### 🎯 Minhas Skills:
 <div style="display:flex;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
