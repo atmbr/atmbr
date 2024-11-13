@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
-<img src="https://github.com/user-attachments/assets/8d419945-c6fc-4560-ae3d-3137f98cbf27" alt="gato dormindo" min-width="400px" max-width="400px" width="400px" align="right"/>
-
 
 ### 🎉Alguns dos meus projetos:
 
@@ -25,7 +23,7 @@
 <a href="https://github.com/atmbr/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atmbr&repo=convoychat" />
 </a>
-
+<img src="https://github.com/user-attachments/assets/8d419945-c6fc-4560-ae3d-3137f98cbf27" alt="gato dormindo" min-width="400px" max-width="400px" width="400px" align="right"/>
 
 
 
