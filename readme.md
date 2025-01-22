@@ -2,7 +2,7 @@
 
 # Oi, sou o Atm! 👏
 
-<p align="left">Atualmente, estou estudando programação e criando alguns projetos com HTML, CSS e JavaScript. Não sou profissional ainda, mas já fiz alguns sites e estou me divertindo bastante no processo. Meu próximo passo é começar a aprender Python e expandir meus conhecimentos.</p>
+<p align="left">Atualmente, estou estudando programação e criando alguns projetos com HTML, CSS e JavaScript. Não sou profissional ainda, mas já fiz alguns sites e estou me divertindo bastante no processo. Meu próximo passo é começar a aprender Python e expandir meus conhecimentos.</p> 
 <p align="left">
   <a href="https://youtube.com/@atm" title="Youtube">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
